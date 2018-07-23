@@ -36,6 +36,22 @@ section {
   text-align: center;
 }
 
+.article {
+  background-color: #777;
+  color: #ebebeb;
+  margin: 10px;
+  padding: 5px;
+}
 
+.article_subset {
+  background-color: #ebebeb;
+  color:#777;
+  height: 50px;
+  text-align: center;
+  margin: 12px;
+}
 
+.article_subset p {
+  padding-top: 15px;
+}
 
